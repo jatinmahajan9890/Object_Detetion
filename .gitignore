@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Virtual environments
+myenv/
+venv/
+env/
+
+# Model weights (Do not upload these!)
+*.pt
+
+# Local vault/scan data
+backend_vault/
